@@ -28,6 +28,14 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🎧 Spotify Playing
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gu6a6xha6mh4ihtrpssde52qte&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+  </a>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dumpxrepo/Dumpxrepo/output/pacman-contribution-graph-dark.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Dumpxrepo/Dumpxrepo/output/pacman-contribution-graph.svg">
