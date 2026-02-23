@@ -1,4 +1,8 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="img/GIF/Earth.gif" width="24px"/>
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  <img src="img/GIF/Hi.gif" width="40px" />
+</h1>
 
 ![Fawzi Feriyanto Akbar](img/github-header-banner.png)
 
@@ -31,6 +35,8 @@
 ###
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dumpxrepo&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center" style="text-decoration: none;">
+  <img src="https://komarev.com/ghpvc/?username=Dumpxrepo&style=for-the-badge"/>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
