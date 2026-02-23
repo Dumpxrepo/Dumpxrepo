@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=355872"/>
+
 <h1 align="center">
   <img src="img/GIF/Earth.gif" width="24px"/>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
@@ -45,3 +47,5 @@
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=355872&height=100&section=footer"/>
