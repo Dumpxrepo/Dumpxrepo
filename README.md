@@ -31,9 +31,7 @@
 ### 🎧 Spotify Playing
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gu6a6xha6mh4ihtrpssde52qte&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
-  </a>
+  <img src="img/spotify-song.svg" alt="Spotify Now Playing" />
 </p>
 
 <picture>
