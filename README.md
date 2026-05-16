@@ -60,7 +60,8 @@
 
 ---
 <p align="center" style="text-decoration: none;">
-  <img src="https://komarev.com/ghpvc/?username=Dumpxrepo&style=for-the-badge"/>
+  <!-- <img src="https://komarev.com/ghpvc/?username=Dumpxrepo&style=for-the-badge"/> -->
+  <img src="https://count.getloli.com/@Dumpxrepo?name=Dumpxrepo&theme=miku" width="500"/>
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
